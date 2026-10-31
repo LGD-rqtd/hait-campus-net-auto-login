@@ -1,0 +1,11 @@
+# 真实账号配置（含密码，绝不提交）
+scripts/config.ps1
+
+# 运行日志
+scripts/auto_login.log
+
+# 系统/编辑器临时文件
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
